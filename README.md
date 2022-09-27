@@ -19,11 +19,12 @@
 <p align="center">
 <img width="30%" src="https://github.com/nadienuncanada/pruebas/blob/main/7xFU.gif" />
   </p align="center">
-  <p align="center"><img src="https://metrics.lecoq.io/nadienuncanada?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka"></p align="center">
-<br>
-<br>
-<br>
+  
 <!--
+<p align="center"><img src="https://metrics.lecoq.io/nadienuncanada?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka"></p align="center">
+<br>
+<br>
+<br>
 **nadienuncanada/nadienuncanada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
